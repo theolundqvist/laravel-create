@@ -12,7 +12,7 @@
     "devDependencies": {
         "@pipe-dream/core": "^1.1.0",
         "@pipe-dream/example-file-factory": "^1.0.3",
-        "@pipe-dream/laravel-file-factory": "^1.1.0",
+        "@pipe-dream/laravel-file-factory": "https://github.com/theolundqvist/laravel-file-factory.git",
         "cross-env": "^5.1",
         "laravel-mix": "^4.0.14",
         "laravel-mix-purgecss": "^4.1",

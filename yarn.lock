@@ -948,10 +948,9 @@
     vue-textarea-autosize "^1.0.4"
     vuex "^3.1.0"
 
-"@pipe-dream/laravel-file-factory@^1.1.0":
+"@pipe-dream/laravel-file-factory@https://github.com/theolundqvist/laravel-file-factory.git":
   version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@pipe-dream/laravel-file-factory/-/laravel-file-factory-1.1.0.tgz#4a9a55616a951422a9483321a4f1432a918eba19"
-  integrity sha512-POXeQPdpD3VbPtaMwQBt2CHxuWQuqZr+o+uq0Rs/Pm7rnLMsyAjh8YWCgNZ6AY8gwOxVEzmcFuJV+Wsmtk17NA==
+  resolved "https://github.com/theolundqvist/laravel-file-factory.git#198fe3816be9e148b8bd4898fb0b980a0aa52c27"
   dependencies:
     "@pipe-dream/core" "^1.1.0"
     "@vue/test-utils" "^1.0.0-beta.29"
